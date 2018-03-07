@@ -16,9 +16,25 @@ body{
 .header p{
 	text-align:center;
 	font-size:18px;
-
 }
 
 .header a{
 	color:#ffffff;
+}
+
+h2{
+	font-size:32px;
+	font-weight:bold;
+	text-align:center;
+}
+
+h3{
+	font-size:23px;
+	font-weight:bold;
+	text-align:center;
+}
+
+p{
+	text-align:center;
+	font-size:14px;
 }
